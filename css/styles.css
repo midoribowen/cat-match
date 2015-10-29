@@ -5,3 +5,25 @@
 #elderly, #petPal, #kidFriendly, #solo {
   display: none;
 }
+
+body {
+  background-color: #FFFFF0;
+}
+
+#header {
+  text-decoration: underline;
+}
+
+.col-md-4 {
+  background-color: #000029;
+  color: #D1D1D9;
+  border: solid #66667F 5px;
+  padding: 12px;
+}
+
+.col-md-8 {
+  background-color: #001F00;
+  color: #D1D7D1;
+  border: solid #667966 5px;
+  padding: 12px;
+}
